@@ -1,9 +1,5 @@
-!
-![ChaiDragon](https://files.oaiusercontent.com/file-pnvPUpbbsn9Cy3RxLssyPqfD?se=2024-08-24T16%3A28%3A45Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dbe09417f-9cec-4bae-a82a-dac749ba013b.webp&sig=g3mq0wZL0h2AF7EgkKd9lWOOPBR4fLAEuBEAeXWiQFM%3D)
 
-
-
-
+file-pnvPUpbbsn9Cy3RxLssyPqfD.web
 
 
 # ChaiLang
